@@ -1,9 +1,3 @@
-// Madison Hurr
-// Assignment 2: N-grams
-// CS106B Spring 2017
-// Section: Ryan Hermstein
-// This program will generate random text that will
-// resemble a text file that is read in.
 
 #include <cctype>
 #include <cmath>
